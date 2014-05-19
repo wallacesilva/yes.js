@@ -3,6 +3,15 @@ yes.js - just another javascript framework :)
 
 Just another javascript framework. You need use more javascript, this framework is to learn how to use better the javascript, you can read this code and see the simple code. If you want support for old browsers use Modernizr and say to your clients update navigator or report error on this issues. 
 
+If you don't want depend of jQuery or similar usage this framework but the more important is lear the code. If you want learn more about use more javascript see this links:
+
+- [You Might not Need jQuery](http://youmightnotneedjquery.com/) - to learn about javascript without jQuery
+- [Modernizr](http://modernizr.com/) - to old browsers
+- [$dom](https://github.com/julienw/dollardom) - to manipulate dom objects
+- [MDN Javascript](https://developer.mozilla.org/docs/JavaScript) - Mozilla Developer Network about javascript
+- [underscore.js](http://underscorejs.org/) - javascript library
+
+
 Future
 --------------------------------------
 
@@ -53,6 +62,7 @@ Author
 --------------------------------------
 
 E-Mail: contact[aat]wallacesilva[adot].com
+
 Twitter: http://twitter.com/wallacesilva09
 
 
