@@ -1,9 +1,9 @@
 yes.js - just another javascript library :)
 ======
 
-Just another javascript library. You need use more javascript, this library is to learn how to use better the javascript, you can read this code and see the simple code. If you want support for old browsers use Modernizr and say to your clients update navigator or report error on this issues. 
+Just another javascript library. You need to use more javascript, this library is to learn how to use better the javascript, you can read this code and see the simple code. If you want support for old browsers use Modernizr and say to your clients update navigator or report error on this issues. 
 
-If you don't want depend of jQuery or similar usage this library but the more important is lear the code. If you want learn more about use more javascript see this links:
+If you don't want depend of jQuery or similar usage this library but the more important is you learn the code. If you want to learn more about how to use more javascript see this links:
 
 - [You Might not Need jQuery](http://youmightnotneedjquery.com/) - to learn about javascript without jQuery
 - [Modernizr](http://modernizr.com/) - to old browsers
