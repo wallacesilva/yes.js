@@ -1,9 +1,9 @@
-yes.js - just another javascript framework :)
+yes.js - just another javascript library :)
 ======
 
-Just another javascript framework. You need use more javascript, this framework is to learn how to use better the javascript, you can read this code and see the simple code. If you want support for old browsers use Modernizr and say to your clients update navigator or report error on this issues. 
+Just another javascript library. You need use more javascript, this library is to learn how to use better the javascript, you can read this code and see the simple code. If you want support for old browsers use Modernizr and say to your clients update navigator or report error on this issues. 
 
-If you don't want depend of jQuery or similar usage this framework but the more important is lear the code. If you want learn more about use more javascript see this links:
+If you don't want depend of jQuery or similar usage this library but the more important is lear the code. If you want learn more about use more javascript see this links:
 
 - [You Might not Need jQuery](http://youmightnotneedjquery.com/) - to learn about javascript without jQuery
 - [Modernizr](http://modernizr.com/) - to old browsers
@@ -15,10 +15,11 @@ If you don't want depend of jQuery or similar usage this framework but the more 
 Future
 --------------------------------------
 
-- Create a github website
-- Detect browser
-- Implement simple ajax (for while you can be use https://github.com/ForbesLindesay/ajax)
-
+- Create a github website;
+- Create function to Detect navigator;
+- Implement simple ajax (for while you can be use https://github.com/ForbesLindesay/ajax);
+- Standarlize notifications to web browsers, if is not exists simulate notification;
+- Translate README.md to portuguese;
 
 Requirements
 --------------------------------------
@@ -26,7 +27,7 @@ Requirements
 Web Browser only. No jQuery depends. :)
 
 
-Using
+Usage
 --------------------------------------
 
 No need load objects. The methos are statics for fast usage.
@@ -46,7 +47,7 @@ Yes.addClass(element, 'class-name');
 Performance
 --------------------------------------
 
-Objective for this project is a slim framework on file size, memory usage and process. If this framework is hard process for you report a issue. Thanks.
+Objective for this project is a slim library on file size, memory usage and process. If this library is hard process for you report a issue. Thanks.
 
 Issues, Bugs and Suggestions
 --------------------------------------
