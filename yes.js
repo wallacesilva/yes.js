@@ -10,7 +10,7 @@ function Yes(){};
 Yes = {
     
     // About Yes is returned
-    about = {
+    about: {
         Version: 0.2,
         Author: "Wallace Silva",
         Created: "May 2014",
