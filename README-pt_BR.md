@@ -1,36 +1,36 @@
 yes.js - mais uma biblioteca javascript :)
 ======
 
-Apenas mais uma biblioteca javascript. Você precisa usar mais o javascript, esta biblioteca é para ensinar como usar melhor o javascript, você pode ler o código e ver a simplicidade do código. Se você quer dar suporte para navegadores antigos sugiro que use o Modernizr que é focado nisso e além disso diga pra seus clientes atualizarem seus navegadores ou crie uma nova "issue" que vamos tentar resolver juntos. 
+Apenas mais uma biblioteca javascript. Vocï¿½ precisa usar mais o javascript, esta biblioteca ï¿½ para ensinar como usar melhor o javascript, vocï¿½ pode ler o cï¿½digo e ver a simplicidade do cï¿½digo. Se vocï¿½ quer dar suporte para navegadores antigos sugiro que use o Modernizr que ï¿½ focado nisso e alï¿½m disso diga pra seus clientes atualizarem seus navegadores ou crie uma nova "issue" que vamos tentar resolver juntos. 
 
-Se você não quer depender do jQuery ou similares use está biblioteca, porém o mais importante é entender o código. Se você quer aprender masi sobre como usar mais javascript veja os links abaixo:
+Se vocï¿½ nï¿½o quer depender do jQuery ou similares use estï¿½ biblioteca, porï¿½m o mais importante ï¿½ entender o cï¿½digo. Se vocï¿½ quer aprender masi sobre como usar mais javascript veja os links abaixo:
 
 - [You Might not Need jQuery](http://youmightnotneedjquery.com/) - ensina como usar mais javascript sem depender do jQuery;
 - [Modernizr](http://modernizr.com/) - ajuda identificar navegadores antigos;
 - [$dom](https://github.com/julienw/dollardom) - manipular objetos do dom;
-- [MDN Javascript](https://developer.mozilla.org/docs/JavaScript) - Documentação oficial da Mozilla (criadora do Firefox) sobre javascript;
+- [MDN Javascript](https://developer.mozilla.org/docs/JavaScript) - Documentaï¿½ï¿½o oficial da Mozilla (criadora do Firefox) sobre javascript;
 - [underscore.js](http://underscorejs.org/) - uma biblioteca javascript
-
+- [HTML.js](https://github.com/nbubna/HTML) - HTML.js - Um jeito simples e extensivel de se trabalhar com o DOM.
 
 No futuro
 --------------------------------------
 
 - Criar website usando o github;
-- Criar função para detectar o navegador sendo usado;
-- Implementar um simples ajax (mas por enquanto você pode usar esse https://github.com/ForbesLindesay/ajax);
-- Padronizar notificações no navegadores, se não existir simular a notificação;
-- Traduzir README.md para português;
+- Criar funï¿½ï¿½o para detectar o navegador sendo usado;
+- Implementar um simples ajax (mas por enquanto vocï¿½ pode usar esse https://github.com/ForbesLindesay/ajax);
+- Padronizar notificaï¿½ï¿½es no navegadores, se nï¿½o existir simular a notificaï¿½ï¿½o;
+- Traduzir README.md para portuguï¿½s;
 
 Requisitos
 --------------------------------------
 
-Um navegador web somente. Não depender do jQuery. :)
+Um navegador web somente. Nï¿½o depender do jQuery. :)
 
 
 Usando
 --------------------------------------
 
-Não precisa carregar objetos dos elementos. Os métodos são estaticos para uso rápido.
+Nï¿½o precisa carregar objetos dos elementos. Os mï¿½todos sï¿½o estaticos para uso rï¿½pido.
 
 **Esconder um elemento**
 
@@ -47,16 +47,16 @@ Yes.addClass(element, 'nome-da-classe');
 Performance
 --------------------------------------
 
-Objetivo desse projeto é uma biblioteca enxuta em tamanho de arquivo, memória e processamento. Se essa biblioteca está usando muitos recursos abra uma "issue" e informe o problema. Muito Obrigado :)
+Objetivo desse projeto ï¿½ uma biblioteca enxuta em tamanho de arquivo, memï¿½ria e processamento. Se essa biblioteca estï¿½ usando muitos recursos abra uma "issue" e informe o problema. Muito Obrigado :)
 
-Dúvidas, Sugestões e Erros
+Dï¿½vidas, Sugestï¿½es e Erros
 --------------------------------------
 
-Faça-os aqui https://github.com/wallacesilva/yes.js/issues - não esqueça de mencionar a versão usada.
+Faï¿½a-os aqui https://github.com/wallacesilva/yes.js/issues - nï¿½o esqueï¿½a de mencionar a versï¿½o usada.
 
-Doações
+Doaï¿½ï¿½es
 --------------------------------------
-Você gostou deste projeto? Você pode me pagar um [café](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q8RPSLKHJR5J2) para mostrar sua gratidão :)
+Vocï¿½ gostou deste projeto? Vocï¿½ pode me pagar um [cafï¿½](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q8RPSLKHJR5J2) para mostrar sua gratidï¿½o :)
 
 
 Autor
@@ -67,8 +67,8 @@ E-Mail: contato[aat]wallacesilva[adot].com
 Twitter: http://twitter.com/wallacesilva09
 
 
-Licença
+Licenï¿½a
 --------------------------------------
 
-Este é um projeto open source(código aberto) e está sobre a licença MIT, veja mais no arquivo LICENSE.
+Este ï¿½ um projeto open source(cï¿½digo aberto) e estï¿½ sobre a licenï¿½a MIT, veja mais no arquivo LICENSE.
 
