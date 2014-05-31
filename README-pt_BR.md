@@ -1,7 +1,9 @@
 yes.js - mais uma biblioteca javascript :)
 ======
 
-Apenas mais uma biblioteca javascript. Voc� precisa usar mais o javascript, esta biblioteca � para ensinar como usar melhor o javascript, voc� pode ler o c�digo e ver a simplicidade do c�digo. Se voc� quer dar suporte para navegadores antigos sugiro que use o Modernizr que � focado nisso e al�m disso diga pra seus clientes atualizarem seus navegadores ou crie uma nova "issue" que vamos tentar resolver juntos. 
+Selecione o idioma: [Inglês](https://github.com/wallacesilva/yes.js/blob/master/README.md) - Português
+
+Apenas mais uma biblioteca javascript. Você precisa usar mais o javascript, esta biblioteca é para ensinar como usar melhor o javascript, você pode ler o código e ver a simplicidade do código. Se você quer dar suporte para navegadores antigos sugiro que use o Modernizr que é focado nisso e além disso diga pra seus clientes atualizarem seus navegadores ou crie uma nova "issue" que vamos tentar resolver juntos.
 
 Se voc� n�o quer depender do jQuery ou similares use est� biblioteca, por�m o mais importante � entender o c�digo. Se voc� quer aprender masi sobre como usar mais javascript veja os links abaixo:
 
