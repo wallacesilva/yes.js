@@ -10,7 +10,7 @@ If you don't want depend of jQuery or similar usage this library but the more im
 - [$dom](https://github.com/julienw/dollardom) - to manipulate dom objects
 - [MDN Javascript](https://developer.mozilla.org/docs/JavaScript) - Mozilla Developer Network about javascript
 - [underscore.js](http://underscorejs.org/) - javascript library
-
+- [HTML.js](https://github.com/nbubna/HTML) - HTML.js - A simple, extensible way to work directly with the DOM.
 
 Future
 --------------------------------------
