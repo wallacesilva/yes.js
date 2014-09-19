@@ -1,7 +1,7 @@
 yes.js - just another javascript library :)
 ======
 
-See also: English - [Portuguese](https://github.com/wallacesilva/yes.js)
+See also: English - [Portuguese](https://github.com/wallacesilva/yes.js/blob/master/README-pt_BR.md)
 
 Just another javascript library. You need to use more javascript, this library is to learn how to use better the javascript, you can read this code and see the simple code. If you want support for old browsers use Modernizr and say to your clients update navigator or report error on this issues. 
 
