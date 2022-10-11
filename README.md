@@ -1,4 +1,4 @@
-yes.js - just another javascript library :)
+[Deprecated] yes.js - just another javascript library :)
 ======
 
 See also: English - [Portuguese](https://github.com/wallacesilva/yes.js/blob/master/README-pt_BR.md)

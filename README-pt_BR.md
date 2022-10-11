@@ -1,4 +1,4 @@
-yes.js - mais uma biblioteca javascript :)
+[Deprecated] yes.js - mais uma biblioteca javascript :)
 ======
 
 Veja em: [Inglês](https://github.com/wallacesilva/yes.js) - Portugês
